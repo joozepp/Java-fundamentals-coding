@@ -13,6 +13,5 @@ public class SubstringPrint {
         System.out.println(s.substring(s.indexOf("beaut")));
 
         System.out.println(s.startsWith("Est"));
-        System.out.println(s.tou);
     }
 }
